@@ -6,7 +6,7 @@ Use this simple password generator to create a secure password in just a few cli
 This generator is entirely randomized with the modern English alphabet, numbers 0-9, and symbols !@#$%^&*.
 
 ## Application Usage
-
+![Password Generator](https://user-images.githubusercontent.com/95983252/168508276-01ba95d8-382e-40c9-abf3-b99c5f273bf3.gif)
 
 ## Support
 Feel free to reach out to me via GitHub.
